@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-apisetu-gov-epramanhp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lok Praman Patra (http://admis.hp.nic.in/epraman/) is HP Govt's online service portal issuing documents like Bonafide, Dogra Class, Income, Character Certificates.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-apisetu-gov-epramanhp",
